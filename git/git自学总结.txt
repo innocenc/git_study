@@ -1,0 +1,39 @@
+git是地球上号称最强的版本管理软件，这让偶有兴趣了解一下，它到底是有多么的强！！！
+
+git 命令》
+1、git init --bare test.git
+2、git clone sa@192.168.0.102:test.git   
+3、git push -u origin master
+4、git pull
+5、git push origin v1.0
+6、git push origin :refs/tags/v1.0
+以上是与远程服务器交互篇
+7、git add --a
+8、git commit -m""
+9、git checkout -- readme.txt HEAD~2
+10、git reset --hard HEAD~2
+11、git checkout -b dev
+12、git stash
+13、git checkout master
+14、git stash pop
+15、fit merge --no-ff -m""
+16、git status
+17、git remote -v
+18、git tag -a v1.0 -m""
+19、git reflog
+19、git log --graph --pretty=oneline --abbrev-commit
+20、git show v1.0
+21、git tag -d v1.0
+22、git branch -d dev
+23、git config --global user.name
+24、git config --global user.email
+25、ssh-keygen -t rsa -C"xxxxx@xxx"
+26、git diff --readme.txt HEAD~2
+
+
+
+
+
+
+
+
