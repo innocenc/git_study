@@ -1,6 +1,3 @@
-hellow world 1
-hellow world 2
-hellow world 3
-bug is done
-hello laopo
-hello ihave a good
+为了更加熟练使用git和良好的学习
+	我打算用git来记录我的学习笔记什么的。。。
+		good luck!
